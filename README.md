@@ -1,4 +1,4 @@
-# Compiler name
+# GRAPH-BASED MODELING LANGUAGE
 ## Installing 
 To be able to use Gurobi please install : 
 
