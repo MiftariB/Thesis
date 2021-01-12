@@ -1,4 +1,4 @@
-# GRAPH-BASED MODELING LANGUAGE
+# Compiler name
 ## Installing 
 To be able to use Gurobi please install : 
 
@@ -10,7 +10,13 @@ You need to install the requirements :
 ```
 pip install -r requirements
 ```
-The start a python REPL:
+Start a julia terminal and execute : 
+```
+import Pkg
+Pkg.install("Gurobi") 
+```
+Close the Julia terminal you are done with it.
+Open a python terminal and start a python REPL by writting:
 ```
 python 
 ```
